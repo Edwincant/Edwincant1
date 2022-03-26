@@ -30,30 +30,6 @@
 
 ---
 
-<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
-
-<tr>
-<td>
-
-[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm]
-
-
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
-
-</td>
-
-
-[<img align="left" alt="jailbreakrepo | Jailbreak Repo" width="50px" src="./src/cydia7.png" />][jailbreakrepo]
-
-</td>
-<td> <h4 align="left"> <a href="https://mctechnology17.github.io/" target="_blank"><code>Jailbreak repo</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    A small contribution to the Jailbreaker community
-
-  </details> </td>
-</tr>
 <tr>
 <td>
 
