@@ -28,48 +28,6 @@
 
 <br />
 
----
-
-<tr>
-<td>
-
-[<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
-
-</td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    UI Glitch is here!!!
-    Give your iPhone a different look with UI Glitch.
-    The UI family by MC Technology! Designed for UI lovers!
-    With UI Glitch you can get an exquisite combination to complement your themes!
-    More than 20 Shades with different degrees of opacity and colors!
-    Compatibility with thousands of themes!  Includes an exclusive animated theme!
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
-
-</td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    UI Switches
-    Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
-    How to use UI Switches?  Install Snowboard and Snowboard UI extension from Spark’s repo.
-    Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
-    Or use iThemer or Anemone for activation
-
-  </details> </td>
-</tr>
-
-<br />
-<br />
 
 ---
 
@@ -77,13 +35,6 @@
 
 
 ---
-
-<h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
-
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
 ---
 
