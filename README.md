@@ -1,4 +1,4 @@
-[![MC Technology](src/mctechnology_extendido.GIF)]
+[![Edwincant](src/mctechnology_extendido.GIF)]
 
 <h1 align="center">Bienvenido, soy Edwin Cantor <img src="./src/wave.gif" width="30px"></h1>
 
