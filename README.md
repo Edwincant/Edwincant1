@@ -1,6 +1,6 @@
 ![Edwincant](src/mctechnology_extendido.GIF)
 
-<h1 align="center">Bienvenido, soy Edwin Cantor <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Bienvenid@, soy Edwin Cantor <img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
