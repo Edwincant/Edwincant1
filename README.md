@@ -8,7 +8,8 @@
 
 [<img align="left" alt="MC Technology | Linkedin" width="22px" src="./src/youtube.png" />][linkedin]
 [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@Edwincant | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@Edwincant | Freecodecamp" width="22px" src="./src/Freecodecamp.png" />][Freecodecamp]
 
 
 </td>
@@ -45,4 +46,5 @@
 [twitter]: https://twitter.com/cantor_edwin?t=SJ_LRpPgxpVegl1BwgmUdg&s=09
 [linkedin]: https://www.linkedin.com/in/edwin-cantor/
 [instagram]: https://www.instagram.com/edwincantor_/
+[Freecodecamp]: https://www.freecodecamp.org/espanol/fccc22aa423-8d53-4d63-9de4-26089aee6f06
 
