@@ -6,11 +6,11 @@
 <tr>
 <td>
 
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
+[<img align="left" alt="MC Technology | Linkedin" width="22px" src="./src/youtube.png" />][linkedin]
 [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
 [<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
 [<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+
 
 </td>
 </tr>
@@ -64,18 +64,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 
-[twitter]: https://twitter.com/mctechnology17
-[youtube]: https://www.youtube.com/c/mctechnology17
-[instagram]: https://www.instagram.com/mctechnology17/
-[facebook]: https://m.facebook.com/mctechnology17/
-[reddit]:https://www.reddit.com/user/mctechnology17
+[twitter]: https://twitter.com/cantor_edwin?t=SJ_LRpPgxpVegl1BwgmUdg&s=09
+[linkedin]: https://www.linkedin.com/in/edwin-cantor/
+[instagram]: https://www.instagram.com/edwincantor_/
 
-[vimtools]: https://github.com/mctechnology17/vimtools
-[jailbreakrepo]: https://mctechnology17.github.io/
-[uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
-[uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
-[gm]: https://github.com/mctechnology17/gm
-[youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
