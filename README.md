@@ -30,11 +30,11 @@
 
 ---
 
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<h3 align="left"><img src="./src/estadistica2.gif" width="21px" height="21px"> GitHub Stats</h3>
 
 <div>
   <a href="https://github.com/Edwincant">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
