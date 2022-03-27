@@ -32,7 +32,7 @@
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
-<div>
+<div dir="auto">
   <a href="https://github.com/Edwincant">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=chartreuse-dark"/>
