@@ -8,7 +8,8 @@
 
 [<img align="left" alt="MC Technology | Linkedin" width="22px" src="./src/youtube.png" />][linkedin]
 [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@Edwincant | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@Edwincant | Freecodecamp" width="22px" src="./src/Freecodecamp.png" />][Freecodecamp]
 
 
 </td>
@@ -34,8 +35,8 @@
 
 <div>
   <a href="https://github.com/Edwincant">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
   
@@ -45,4 +46,5 @@
 [twitter]: https://twitter.com/cantor_edwin?t=SJ_LRpPgxpVegl1BwgmUdg&s=09
 [linkedin]: https://www.linkedin.com/in/edwin-cantor/
 [instagram]: https://www.instagram.com/edwincantor_/
+[Freecodecamp]: https://www.freecodecamp.org/espanol/fccc22aa423-8d53-4d63-9de4-26089aee6f06
 
