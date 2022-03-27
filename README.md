@@ -1,4 +1,4 @@
-[![Edwincant](src/mctechnology_extendido.GIF)]
+[![Edwincant](src/mctechnology_extendido.GIF)
 
 <h1 align="center">Bienvenido, soy Edwin Cantor <img src="./src/wave.gif" width="30px"></h1>
 
@@ -34,8 +34,8 @@
 
 <div>
   <a href="https://github.com/Edwincant">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   
