@@ -38,6 +38,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+  
+ ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 
 [twitter]: https://twitter.com/cantor_edwin?t=SJ_LRpPgxpVegl1BwgmUdg&s=09
