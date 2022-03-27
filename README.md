@@ -1,4 +1,4 @@
-[![Edwincant](src/mctechnology_extendido.GIF)
+![Edwincant](src/mctechnology_extendido.GIF)
 
 <h1 align="center">Bienvenido, soy Edwin Cantor <img src="./src/wave.gif" width="30px"></h1>
 
@@ -18,7 +18,7 @@
 <details>
   <summary>:zap: About me!</summary>
 
-### 💻 Programador en formación, actualmente estudio desarrollo con tecnologías Web 💻!!
+### 💻 Programador en formación 💻!!
 - 🦾  Me apasiona los proyectos orientados a ESG!
 - 🤓  Tengo concimientos basicos en C++ y estudio desarrollo Web
 - 👾  Soy persistenta y enfocado al logro, por eso estudio programación
