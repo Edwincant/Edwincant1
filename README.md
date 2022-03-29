@@ -22,7 +22,7 @@
 ### 💻 Programador en formación 💻!!
 - 🦾  Me apasiona los proyectos orientados a ESG!
 - 🤓  Tengo concimientos basicos en C++ y estudio desarrollo Web
-- 👾  Soy persistenta y enfocado al logro, por eso estudio programación
+- 👾  Soy persistente y enfocado al logro, por eso estudio programación
 - 🗒   Actualmente estoy en busqueda de mis primeras practicas empresariales
 </details>
 
