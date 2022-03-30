@@ -35,10 +35,13 @@
 
 <div>
   <a href="https://github.com/Edwincant">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
+  Referencia autor: https://github.com/anuraghazra/github-readme-stats
+  
+  ----
   
  ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
@@ -47,4 +50,6 @@
 [linkedin]: https://www.linkedin.com/in/edwin-cantor/
 [instagram]: https://www.instagram.com/edwincantor_/
 [Freecodecamp]: https://www.freecodecamp.org/espanol/fccc22aa423-8d53-4d63-9de4-26089aee6f06
+  
+
 
