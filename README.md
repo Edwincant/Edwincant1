@@ -39,7 +39,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-  Referencia autor: https://github.com/anuraghazra/github-readme-stats
+  //*Referencia autor: https://github.com/anuraghazra/github-readme-stats
   
   ----
   
