@@ -38,8 +38,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Edwincant&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwincant&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-
-  //*Referencia autor: https://github.com/anuraghazra/github-readme-stats
   
   ----
   
